@@ -8,7 +8,7 @@ A real-time voice-powered healthcare assistant with AI symptom assessment, medic
 
 **Backend** — FastAPI (Python 3.12), PostgreSQL + pgvector, Redis, ChromaDB
 
-**AI** — OpenAI (GPT-4o, Whisper), ElevenLabs TTS, RAG pipeline
+**AI** — GEMINI API (GPT-4o, Whisper), ElevenLabs TTS, RAG pipeline
 
 ## Project Structure
 
